@@ -9,7 +9,7 @@ setup(
     description="Utility code for Python projects",
     author='Center for Research Computing, University of Notre Dame',
     author_email="crc-ci-developers@listserv.nd.edu",
-    url="https://github.com/crc-nd/py-utils",
+    url="https://github.com/crcresearch/py-utils",
     classifiers=[
         "Development Status :: 4 - Beta",
         "License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)",
