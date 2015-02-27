@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 setup(
     name="crc-nd.utils",    # Note the use of hyphen; setuptools would convert an underscore to hyphen automatically,
                             # which is confusing.  See http://stackoverflow.com/q/19097057/1258514
-    version="0.1.0",
+    version="0.2.0",
 
      # Metadata for PyPI
     description="Utility code for Python projects",
